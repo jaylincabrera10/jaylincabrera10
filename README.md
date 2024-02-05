@@ -1,8 +1,8 @@
 ### Hi there, I'm Jaylin 😄
 
-I am an Associate Information Security Analyst with over 3 years of professional internship experience within IT and Cybersecurity. Currently, I am also an M.S. in Cybersecurity student at Georgia Tech. 
+I am an Associate Information Security Analyst, currently pursuing an M.S. in Cybersecurity degree at Georgia Tech. 
 
-🗒️ Find me at <a href="https://www.linkedin.com/jaylincabrera10/" target="_blank">LinkedIn - JC </a> <br /> 
+🗒️ Connect with me: <a href="https://www.linkedin.com/jaylincabrera10/" target="_blank">LinkedIn - JC </a> <br /> 
 📫 My personal web-site: https://jaylincabrera10.github.io/
 
 <!--
