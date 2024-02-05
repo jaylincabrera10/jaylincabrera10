@@ -2,11 +2,10 @@
 I am an Associate Information Security Analyst, currently pursuing an M.S. in Cybersecurity degree at Georgia Tech. 
 
 🗒️ Connect with me: <a href="https://www.linkedin.com/jaylincabrera10/" target="_blank">LinkedIn - JC </a> <br /> 
-📫 Visit my ersonal website: https://jaylincabrera10.github.io/
-👾 Check out my TryHackMe profile: https://tryhackme.com/p/jaylincabrera10
+📫 Visit my personal website: https://jaylincabrera10.github.io/ <br />
+👾 Check out my TryHackMe profile: https://tryhackme.com/p/jaylincabrera10 <br />
 
 <!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
