@@ -1,9 +1,9 @@
 ### Hi there, I'm Jaylin 😄
-
 I am an Associate Information Security Analyst, currently pursuing an M.S. in Cybersecurity degree at Georgia Tech. 
 
 🗒️ Connect with me: <a href="https://www.linkedin.com/jaylincabrera10/" target="_blank">LinkedIn - JC </a> <br /> 
-📫 My personal web-site: https://jaylincabrera10.github.io/
+📫 Visit my ersonal website: https://jaylincabrera10.github.io/
+👾 Check out my TryHackMe profile: https://tryhackme.com/p/jaylincabrera10
 
 <!--
 
