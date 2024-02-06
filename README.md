@@ -3,7 +3,7 @@ I am an Associate Information Security Analyst, currently pursuing an M.S. in Cy
 
 🗒️ Connect with me: <a href="https://www.linkedin.com/jaylincabrera10/" target="_blank">LinkedIn-JC </a> <br /> 
 📫 Visit my personal website: <a href="https://jaylincabrera10.github.io/" target="_blank">Github.io-JC </a> <br />
-👾 Check out my TryHackMe profile: <a href="https://www.tryhackme.com/jaylincabrera10/" target="_blank">TryHackMe-JC </a> 
+👾 Check out my TryHackMe profile: <a href="https://www.tryhackme.com/p/jaylincabrera10/" target="_blank">TryHackMe-JC </a> 
 
 <!--
 Here are some ideas to get you started:
