@@ -1,5 +1,5 @@
 ### Hi there, I'm Jaylin 😄
-I am an Associate Information Security Analyst, currently pursuing an M.S. in Cybersecurity degree at Georgia Tech. 
+I am a Product Security Engineer at ServiceNow, currently pursuing an M.S. in Cybersecurity degree at Georgia Tech. 
 
 🗒️ Connect with me: <a href="https://www.linkedin.com/in/jaylincabrera10/" target="_blank">LinkedIn-JC </a> <br /> 
 📫 Visit my personal website: <a href="https://jaylincabrera10.github.io/" target="_blank">Github.io-JC </a> <br />
